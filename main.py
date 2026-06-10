@@ -268,7 +268,6 @@ st.download_button(
     file_name="season_analysis_result.csv",
     mime="text/csv"
 )
-```
 
 ## requirements.txt
 
