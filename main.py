@@ -277,9 +277,6 @@ pandas
 
 ## Streamlit Cloud 설정 방법
 
-1. GitHub 저장소 생성
-2. 아래 파일 업로드
-
    * app.py
    * requirements.txt
    * ta_20260601093156(1).csv
