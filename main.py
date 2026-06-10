@@ -271,10 +271,9 @@ st.download_button(
 
 ## requirements.txt
 
-```txt
+txt
 streamlit
 pandas
-```
 
 ## Streamlit Cloud 설정 방법
 
